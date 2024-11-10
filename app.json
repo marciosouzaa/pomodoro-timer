@@ -22,6 +22,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7978c538-218e-48bd-9a32-1456e25fd1e5"
+      }
+    },
+    "owner": "marciosouzaa",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7978c538-218e-48bd-9a32-1456e25fd1e5"
     }
   }
 }
