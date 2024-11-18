@@ -40,8 +40,6 @@ O objetivo principal do aplicativo é proporcionar uma solução prática para g
 1. Clone o repositório:
     ```bash
     git clone https://github.com/marciosouzaa/pomodoro-timer.git
-
-    ```bash
     cd pomodoro-timer
 
 2. Instale as dependências:
