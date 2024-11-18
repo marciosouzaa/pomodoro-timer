@@ -38,13 +38,18 @@ O objetivo principal do aplicativo é proporcionar uma solução prática para g
 
 ## ⚙️ Como Executar o Projeto
 1. Clone o repositório:
+    ```bash
     git clone https://github.com/marciosouzaa/pomodoro-timer.git
+
+    ```bash
     cd pomodoro-timer
 
 2. Instale as dependências:
+    ```bash
     npm install
 
 3. Inicie o projeto:
+    ```bash
     expo start
 
 4. Escaneie o QR Code no terminal com o app Expo Go no seu dispositivo móvel.
@@ -56,6 +61,7 @@ Se você encontrar esse erro, certifique-se de que o SDK do projeto e a versão 
 1. Verifique o SDK do projeto no arquivo app.json ou app.config.js.
 
 2. Atualize o projeto para o SDK mais recente:
+    ```bash
     expo upgrade
 
 3. Se necessário, instale uma versão específica do Expo Go compatível com o SDK do projeto.
