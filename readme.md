@@ -35,6 +35,7 @@ O objetivo principal do aplicativo é proporcionar uma solução prática para g
    ```bash
    npm install -g expo-cli
 
+---
 
 ## ⚙️ Como Executar o Projeto
 1. Clone o repositório:
@@ -52,6 +53,8 @@ O objetivo principal do aplicativo é proporcionar uma solução prática para g
 
 4. Escaneie o QR Code no terminal com o app Expo Go no seu dispositivo móvel.
 
+---
+
 ## 🛠️ Solução de Problemas
 "Project is incompatible with this version of Expo Go"
 Se você encontrar esse erro, certifique-se de que o SDK do projeto e a versão do Expo Go são compatíveis:
@@ -64,6 +67,7 @@ Se você encontrar esse erro, certifique-se de que o SDK do projeto e a versão 
 
 3. Se necessário, instale uma versão específica do Expo Go compatível com o SDK do projeto.
 
+---
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
